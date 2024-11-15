@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"blockchain.utils"},{"l":"curriculumDigital.core"},{"l":"curriculumDigital.gui"}];updateSearchResults();
